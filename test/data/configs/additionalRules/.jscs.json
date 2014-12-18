@@ -1,6 +1,6 @@
 {
-    "testAdditionalRules": true,
+    "successRule": true,
     "additionalRules": [
-        "../../rules/*.js"
+        "./success-rule.js"
     ]
 }
